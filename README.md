@@ -18,7 +18,7 @@ It work as an interactive console-based game that simulates the traditional Tic-
 
 ## 🖥️ Project Structure
 ```
-Weather_API/
+TICTACTOE/
 │── tictactoe.c #All code used
 │── tictactoe #Binary file
 │── Screenshot.png #Project view
