@@ -12,7 +12,7 @@ It work as an interactive console-based game that simulates the traditional Tic-
 
 ## 🖼️ Preview
 
-![Project Screenshot](screenshot.png)
+![Project Screenshot](Screenshot.png)
 
 ---
 
